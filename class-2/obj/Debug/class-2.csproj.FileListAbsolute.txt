@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\bin\Debug\class-2.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\bin\Debug\class-2.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\bin\Debug\class-2.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\obj\Debug\class-2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\obj\Debug\class-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\obj\Debug\class_2.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\obj\Debug\class_2.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\obj\Debug\class-2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\obj\Debug\class-2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\obj\Debug\class-2.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\class-2\class-2\obj\Debug\class-2.pdb
